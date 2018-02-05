@@ -1,0 +1,17 @@
+body{
+    font-family: arial, sans-serif;
+}
+header{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+img{
+    width:100%; 
+}
+header a{
+    color: white;
+}
+nav li{
+    list-style-type: none;
+    text-align: center;
+}
